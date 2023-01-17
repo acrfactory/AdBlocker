@@ -1,3 +1,5 @@
 # AdBlocker
 
-Hello
+This is chrome extension development team project.
+
+Object
